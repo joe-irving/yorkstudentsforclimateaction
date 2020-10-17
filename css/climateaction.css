@@ -339,3 +339,10 @@ nav select {
   background-color: #ffffff;
   background-color: rgba(0, 128, 128, 0.85);
 }
+
+.demands p {
+	font-weight: 1000;
+	margin: 10px auto;
+	border-radius: 10px;
+	border: 2px solid rgb(0, 128, 128);
+}
