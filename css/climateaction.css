@@ -14,7 +14,7 @@
 
 
 html {
-	  background: url('../images/background.jpg') #fff;
+	  background: url('../images/background2.jpg') #fff;
     background-size:cover;
     background-repeat: repeat;
     background-attachment: fixed;
@@ -47,6 +47,7 @@ h1{
   text-transform: uppercase;
   font-family: "Raleway", sans-serif;
   letter-spacing: 15px;
+	padding-top: 50px;
 }
 h2{
   font-size: 40px;
@@ -337,4 +338,11 @@ nav select {
 .prettyblocks a:hover{
   background-color: #ffffff;
   background-color: rgba(0, 128, 128, 0.85);
+}
+
+.demands p {
+	font-weight: 1000;
+	margin: 10px auto;
+	border-radius: 10px;
+	border: 2px solid rgb(0, 128, 128);
 }
